@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Flowing Code with Vaadin framework<br>📖 Finishing Software Engineer career<br>🌱 Learning React and Frontend development
+📖 Software Engineer<br>🔭 Working on Mercado Libre<br>
 
 
 ## 🌐 Socials:
